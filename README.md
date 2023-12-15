@@ -1,6 +1,6 @@
 # About the Project
 
-Coolify is an open-source & self-hostable alternative to Heroku / Netlify / Vercel / etc. 
+Coolify is an open-source & self-hostable alternative to Heroku / Netlify / Vercel / etc.
 
 It helps you to manage your servers, applications, databases on your own hardware, all you need is SSH connection. You can manage VPS, Bare Metal, Raspberry PI's anything.
 
